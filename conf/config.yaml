@@ -1,0 +1,6 @@
+common:
+  kafka:
+    addr: 192.168.127.160:9092
+    topic: weblog
+  ch:
+    addr: 192.168.127.160:9000/default
